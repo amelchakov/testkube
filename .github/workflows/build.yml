@@ -7,31 +7,31 @@ jobs:
     runs-on: arc-runner-set
     steps:
     - run: echo "🎉 This job uses runner scale set runners!"
-  Explore-GitHub-Actions:
+  Explore-GitHub-Actions2:
     runs-on: arc-runner-set
     steps:
     - run: echo "🎉 This job uses runner scale set runners!"
-  Explore-GitHub-Actions:
+  Explore-GitHub-Actions3:
     runs-on: arc-runner-set
     steps:
     - run: echo "🎉 This job uses runner scale set runners!"
-  Explore-GitHub-Actions:
+  Explore-GitHub-Actions4:
     runs-on: arc-runner-set
     steps:
     - run: echo "🎉 This job uses runner scale set runners!"
-  Explore-GitHub-Actions:
+  Explore-GitHub-Actions5:
     runs-on: arc-runner-set
     steps:
     - run: echo "🎉 This job uses runner scale set runners!"
-  Explore-GitHub-Actions:
+  Explore-GitHub-Actions6:
     runs-on: arc-runner-set
     steps:
     - run: echo "🎉 This job uses runner scale set runners!"
-  Explore-GitHub-Actions:
+  Explore-GitHub-Actions7:
     runs-on: arc-runner-set
     steps:
     - run: echo "🎉 This job uses runner scale set runners!"
-  Explore-GitHub-Actions:
+  Explore-GitHub-Actions8:
     runs-on: arc-runner-set
     steps:
     - run: echo "🎉 This job uses runner scale set runners!"
